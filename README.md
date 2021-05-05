@@ -1,3 +1,4 @@
 # triangle-generator
 lua triangle generator
-lua version >= 5.2
+
+Required lua version:  lua version >= 5.2
